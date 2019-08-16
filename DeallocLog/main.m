@@ -1,8 +1,8 @@
 //
 //  main.m
-//  DeallocLogDemo
+//  DeallocLog
 //
-//  Created by unakayou on 8/14/19.
+//  Created by unakayou on 8/16/19.
 //  Copyright © 2019 unakayou. All rights reserved.
 //
 

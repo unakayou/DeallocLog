@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A3A6B0032303A5F9005BFC9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A6B0022303A5F9005BFC9A /* AppDelegate.m */; };
-		A3A6B0062303A5F9005BFC9A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A6B0052303A5F9005BFC9A /* ViewController.m */; };
-		A3A6B0092303A5F9005BFC9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A6B0072303A5F9005BFC9A /* Main.storyboard */; };
-		A3A6B00B2303A5FB005BFC9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3A6B00A2303A5FB005BFC9A /* Assets.xcassets */; };
-		A3A6B00E2303A5FB005BFC9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A6B00C2303A5FB005BFC9A /* LaunchScreen.storyboard */; };
-		A3A6B0112303A5FB005BFC9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A6B0102303A5FB005BFC9A /* main.m */; };
-		A3A6B01D2303A658005BFC9A /* NSObject+DeallocLog.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A6B01C2303A658005BFC9A /* NSObject+DeallocLog.m */; };
+		A3FDD0CC2306B6B2008AC532 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FDD0CB2306B6B2008AC532 /* AppDelegate.m */; };
+		A3FDD0CF2306B6B2008AC532 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FDD0CE2306B6B2008AC532 /* ViewController.m */; };
+		A3FDD0D22306B6B2008AC532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3FDD0D02306B6B2008AC532 /* Main.storyboard */; };
+		A3FDD0D42306B6B3008AC532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FDD0D32306B6B3008AC532 /* Assets.xcassets */; };
+		A3FDD0D72306B6B3008AC532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3FDD0D52306B6B3008AC532 /* LaunchScreen.storyboard */; };
+		A3FDD0DA2306B6B3008AC532 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FDD0D92306B6B3008AC532 /* main.m */; };
+		A3FDD0E32306C09F008AC532 /* NSObject+DeallocLog.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FDD0E12306C09F008AC532 /* NSObject+DeallocLog.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A3A6AFFE2303A5F9005BFC9A /* DeallocLogDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeallocLogDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A3A6B0012303A5F9005BFC9A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		A3A6B0022303A5F9005BFC9A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A3A6B0042303A5F9005BFC9A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A3A6B0052303A5F9005BFC9A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		A3A6B0082303A5F9005BFC9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A3A6B00A2303A5FB005BFC9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A3A6B00D2303A5FB005BFC9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A3A6B00F2303A5FB005BFC9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A3A6B0102303A5FB005BFC9A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A3A6B01B2303A658005BFC9A /* NSObject+DeallocLog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+DeallocLog.h"; sourceTree = "<group>"; };
-		A3A6B01C2303A658005BFC9A /* NSObject+DeallocLog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+DeallocLog.m"; sourceTree = "<group>"; };
+		A3FDD0C72306B6B2008AC532 /* DeallocLog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeallocLog.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3FDD0CA2306B6B2008AC532 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A3FDD0CB2306B6B2008AC532 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A3FDD0CD2306B6B2008AC532 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A3FDD0CE2306B6B2008AC532 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A3FDD0D12306B6B2008AC532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A3FDD0D32306B6B3008AC532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A3FDD0D62306B6B3008AC532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A3FDD0D82306B6B3008AC532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3FDD0D92306B6B3008AC532 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3FDD0E12306C09F008AC532 /* NSObject+DeallocLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+DeallocLog.m"; sourceTree = "<group>"; };
+		A3FDD0E22306C09F008AC532 /* NSObject+DeallocLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+DeallocLog.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A3A6AFFB2303A5F9005BFC9A /* Frameworks */ = {
+		A3FDD0C42306B6B2008AC532 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,44 +42,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A3A6AFF52303A5F9005BFC9A = {
+		A3FDD0BE2306B6B2008AC532 = {
 			isa = PBXGroup;
 			children = (
-				A3A6B0172303A624005BFC9A /* DeallocLogCategory */,
-				A3A6B0002303A5F9005BFC9A /* DeallocLogDemo */,
-				A3A6AFFF2303A5F9005BFC9A /* Products */,
+				A3FDD0E02306C081008AC532 /* DeallocLogCategory */,
+				A3FDD0C92306B6B2008AC532 /* DeallocLog */,
+				A3FDD0C82306B6B2008AC532 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A3A6AFFF2303A5F9005BFC9A /* Products */ = {
+		A3FDD0C82306B6B2008AC532 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A3A6AFFE2303A5F9005BFC9A /* DeallocLogDemo.app */,
+				A3FDD0C72306B6B2008AC532 /* DeallocLog.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A3A6B0002303A5F9005BFC9A /* DeallocLogDemo */ = {
+		A3FDD0C92306B6B2008AC532 /* DeallocLog */ = {
 			isa = PBXGroup;
 			children = (
-				A3A6B0012303A5F9005BFC9A /* AppDelegate.h */,
-				A3A6B0022303A5F9005BFC9A /* AppDelegate.m */,
-				A3A6B0042303A5F9005BFC9A /* ViewController.h */,
-				A3A6B0052303A5F9005BFC9A /* ViewController.m */,
-				A3A6B0072303A5F9005BFC9A /* Main.storyboard */,
-				A3A6B00A2303A5FB005BFC9A /* Assets.xcassets */,
-				A3A6B00C2303A5FB005BFC9A /* LaunchScreen.storyboard */,
-				A3A6B00F2303A5FB005BFC9A /* Info.plist */,
-				A3A6B0102303A5FB005BFC9A /* main.m */,
+				A3FDD0CA2306B6B2008AC532 /* AppDelegate.h */,
+				A3FDD0CB2306B6B2008AC532 /* AppDelegate.m */,
+				A3FDD0CD2306B6B2008AC532 /* ViewController.h */,
+				A3FDD0CE2306B6B2008AC532 /* ViewController.m */,
+				A3FDD0D02306B6B2008AC532 /* Main.storyboard */,
+				A3FDD0D32306B6B3008AC532 /* Assets.xcassets */,
+				A3FDD0D52306B6B3008AC532 /* LaunchScreen.storyboard */,
+				A3FDD0D82306B6B3008AC532 /* Info.plist */,
+				A3FDD0D92306B6B3008AC532 /* main.m */,
 			);
-			path = DeallocLogDemo;
+			path = DeallocLog;
 			sourceTree = "<group>";
 		};
-		A3A6B0172303A624005BFC9A /* DeallocLogCategory */ = {
+		A3FDD0E02306C081008AC532 /* DeallocLogCategory */ = {
 			isa = PBXGroup;
 			children = (
-				A3A6B01B2303A658005BFC9A /* NSObject+DeallocLog.h */,
-				A3A6B01C2303A658005BFC9A /* NSObject+DeallocLog.m */,
+				A3FDD0E22306C09F008AC532 /* NSObject+DeallocLog.h */,
+				A3FDD0E12306C09F008AC532 /* NSObject+DeallocLog.m */,
 			);
 			path = DeallocLogCategory;
 			sourceTree = "<group>";
@@ -87,38 +87,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A3A6AFFD2303A5F9005BFC9A /* DeallocLogDemo */ = {
+		A3FDD0C62306B6B2008AC532 /* DeallocLog */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A3A6B0142303A5FB005BFC9A /* Build configuration list for PBXNativeTarget "DeallocLogDemo" */;
+			buildConfigurationList = A3FDD0DD2306B6B3008AC532 /* Build configuration list for PBXNativeTarget "DeallocLog" */;
 			buildPhases = (
-				A3A6AFFA2303A5F9005BFC9A /* Sources */,
-				A3A6AFFB2303A5F9005BFC9A /* Frameworks */,
-				A3A6AFFC2303A5F9005BFC9A /* Resources */,
+				A3FDD0C32306B6B2008AC532 /* Sources */,
+				A3FDD0C42306B6B2008AC532 /* Frameworks */,
+				A3FDD0C52306B6B2008AC532 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = DeallocLogDemo;
-			productName = DeallocLogDemo;
-			productReference = A3A6AFFE2303A5F9005BFC9A /* DeallocLogDemo.app */;
+			name = DeallocLog;
+			productName = DeallocLog;
+			productReference = A3FDD0C72306B6B2008AC532 /* DeallocLog.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A3A6AFF62303A5F9005BFC9A /* Project object */ = {
+		A3FDD0BF2306B6B2008AC532 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1030;
 				ORGANIZATIONNAME = unakayou;
 				TargetAttributes = {
-					A3A6AFFD2303A5F9005BFC9A = {
+					A3FDD0C62306B6B2008AC532 = {
 						CreatedOnToolsVersion = 10.3;
 					};
 				};
 			};
-			buildConfigurationList = A3A6AFF92303A5F9005BFC9A /* Build configuration list for PBXProject "DeallocLogDemo" */;
+			buildConfigurationList = A3FDD0C22306B6B2008AC532 /* Build configuration list for PBXProject "DeallocLog" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,56 +126,56 @@
 				en,
 				Base,
 			);
-			mainGroup = A3A6AFF52303A5F9005BFC9A;
-			productRefGroup = A3A6AFFF2303A5F9005BFC9A /* Products */;
+			mainGroup = A3FDD0BE2306B6B2008AC532;
+			productRefGroup = A3FDD0C82306B6B2008AC532 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A3A6AFFD2303A5F9005BFC9A /* DeallocLogDemo */,
+				A3FDD0C62306B6B2008AC532 /* DeallocLog */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A3A6AFFC2303A5F9005BFC9A /* Resources */ = {
+		A3FDD0C52306B6B2008AC532 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3A6B00E2303A5FB005BFC9A /* LaunchScreen.storyboard in Resources */,
-				A3A6B00B2303A5FB005BFC9A /* Assets.xcassets in Resources */,
-				A3A6B0092303A5F9005BFC9A /* Main.storyboard in Resources */,
+				A3FDD0D72306B6B3008AC532 /* LaunchScreen.storyboard in Resources */,
+				A3FDD0D42306B6B3008AC532 /* Assets.xcassets in Resources */,
+				A3FDD0D22306B6B2008AC532 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A3A6AFFA2303A5F9005BFC9A /* Sources */ = {
+		A3FDD0C32306B6B2008AC532 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3A6B0062303A5F9005BFC9A /* ViewController.m in Sources */,
-				A3A6B0112303A5FB005BFC9A /* main.m in Sources */,
-				A3A6B0032303A5F9005BFC9A /* AppDelegate.m in Sources */,
-				A3A6B01D2303A658005BFC9A /* NSObject+DeallocLog.m in Sources */,
+				A3FDD0CF2306B6B2008AC532 /* ViewController.m in Sources */,
+				A3FDD0E32306C09F008AC532 /* NSObject+DeallocLog.m in Sources */,
+				A3FDD0DA2306B6B3008AC532 /* main.m in Sources */,
+				A3FDD0CC2306B6B2008AC532 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A3A6B0072303A5F9005BFC9A /* Main.storyboard */ = {
+		A3FDD0D02306B6B2008AC532 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A3A6B0082303A5F9005BFC9A /* Base */,
+				A3FDD0D12306B6B2008AC532 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A3A6B00C2303A5FB005BFC9A /* LaunchScreen.storyboard */ = {
+		A3FDD0D52306B6B3008AC532 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A3A6B00D2303A5FB005BFC9A /* Base */,
+				A3FDD0D62306B6B3008AC532 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -183,7 +183,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A3A6B0122303A5FB005BFC9A /* Debug */ = {
+		A3FDD0DB2306B6B3008AC532 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -242,7 +242,7 @@
 			};
 			name = Debug;
 		};
-		A3A6B0132303A5FB005BFC9A /* Release */ = {
+		A3FDD0DC2306B6B3008AC532 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -295,33 +295,33 @@
 			};
 			name = Release;
 		};
-		A3A6B0152303A5FB005BFC9A /* Debug */ = {
+		A3FDD0DE2306B6B3008AC532 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = DeallocLogDemo/Info.plist;
+				INFOPLIST_FILE = DeallocLog/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unakayou.DeallocLogDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unakayou.DeallocLog;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A3A6B0162303A5FB005BFC9A /* Release */ = {
+		A3FDD0DF2306B6B3008AC532 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = DeallocLogDemo/Info.plist;
+				INFOPLIST_FILE = DeallocLog/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unakayou.DeallocLogDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unakayou.DeallocLog;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -330,25 +330,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A3A6AFF92303A5F9005BFC9A /* Build configuration list for PBXProject "DeallocLogDemo" */ = {
+		A3FDD0C22306B6B2008AC532 /* Build configuration list for PBXProject "DeallocLog" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A3A6B0122303A5FB005BFC9A /* Debug */,
-				A3A6B0132303A5FB005BFC9A /* Release */,
+				A3FDD0DB2306B6B3008AC532 /* Debug */,
+				A3FDD0DC2306B6B3008AC532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A3A6B0142303A5FB005BFC9A /* Build configuration list for PBXNativeTarget "DeallocLogDemo" */ = {
+		A3FDD0DD2306B6B3008AC532 /* Build configuration list for PBXNativeTarget "DeallocLog" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A3A6B0152303A5FB005BFC9A /* Debug */,
-				A3A6B0162303A5FB005BFC9A /* Release */,
+				A3FDD0DE2306B6B3008AC532 /* Debug */,
+				A3FDD0DF2306B6B3008AC532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A3A6AFF62303A5F9005BFC9A /* Project object */;
+	rootObject = A3FDD0BF2306B6B2008AC532 /* Project object */;
 }
