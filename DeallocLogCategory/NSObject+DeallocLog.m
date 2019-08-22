@@ -21,12 +21,14 @@
 @implementation NSObject (DeallocLog)
 @dynamic deallocLog;
 
+#if DEBUG
 + (void)load {
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         swizzleMethod([self class], @selector(init), @selector(swizzled_init));
     });
 }
+#endif
 
 - (instancetype)swizzled_init {
     if(self.deallocObject == nil) {
